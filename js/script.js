@@ -3,7 +3,7 @@ function Pizza () {
     this.toppings = [];
     this.size;
     this.total;
-  }
+   }
   Pizza.prototype.cost = function () {
     var cost = 0;
     this.toppings.map(function(topping) {
@@ -76,28 +76,30 @@ function Pizza () {
           }, 700);
           pizza.size = size;
           pizza.cost();
-         
-         
-  // Get the video
-  var video = document.getElementById("myVideo");
+        
+             // Get the video
+           var video = document.getElementById("myVideo");
   
-  // Get the button
-  var btn = document.getElementById("myBtn");
+           // Get the button
+           var btn = document.getElementById("myBtn");
   
-  // Pause and play the video, and change the button text
-  function myFunction() {
-    if (video.paused) {
-      video.play();
-      btn.innerHTML = "Pause";
-    } else {
-      video.pause();
-      btn.innerHTML = "Play";
-    }
-  }
-
-
+              // Pause and play the video, and change the button text
+                function myFunction() {
+                if (video.paused) {
+                video.play();
+             btn.innerHTML = "Pause";
+           } else {
+            video.pause();
+             btn.innerHTML = "Play";
+          }
         }
-      });
+  
+      }
     });
   });
+});      
+  
+
+
+
   
