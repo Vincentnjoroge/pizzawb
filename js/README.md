@@ -4,15 +4,9 @@
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
 
 ## DESCRIPTION
-This is a web application in which contains all the work I have done during my second week of learning at [MORINGA School](https://moringaschool.com/). It used Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/).When you work with us, you are part of a team of committed collaborators.All aspects of our software development process are intergrated, interactive
-and agile.
-
-Our approach unifies design, development and product management to create exceptional products.
-
-We start each project by understanding your business goals, the user's needs and the product requirements
-
-Then we help translate them into effective and elegant solutions.
-Here is the [Live Site](https://vincentnjoroge.github.io/Delani-studio/)
+This is a web application in which contains all the work I have done during my second week of learning at [MORINGA School](https://moringaschool.com/). It used Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/).
+the website helps one to engage with a pizza shop and one is able to order for the pizza online at the comfort of your home or workspace.
+Here is the [Live Site](https:///)
 
 ## Setup/Installation Requirements
 Clone this Repository onto your device then open the file and it will lead you to the Web Aplication.
