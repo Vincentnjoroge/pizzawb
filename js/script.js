@@ -1,4 +1,4 @@
-// Business Logic
+// Business Logic 🎪
 function Pizza () {
     this.toppings = [];
     this.size;
@@ -13,7 +13,7 @@ function Pizza () {
     this.total = "Your total is: " + "$" + total.toFixed(2);
   };
   
-  // User Interface Logic
+  // Uil 😃 
   $(function() {
     $("#pizzaOrder").submit(function(event) {
       event.preventDefault();
@@ -77,7 +77,7 @@ function Pizza () {
           pizza.size = size;
           pizza.cost();
         
-             // Get the video
+             // Get the video📼
            var video = document.getElementById("myVideo");
   
            // Get the button
