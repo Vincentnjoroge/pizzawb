@@ -1,4 +1,4 @@
-# Delani studio
+# The sherrifs pizza place
 #### 20th February 2020.
 ## By VINCENT NJOROGE
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
