@@ -1,4 +1,4 @@
-# The sherrifs pizza place
+# The sherrif's pizza place
 #### 29th february 2020.
 ## By VINCENT NJOROGE
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
