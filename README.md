@@ -4,7 +4,8 @@
 The Author of this project is a student at Moringa School currently taking part in the Prep Program.
 
 ## DESCRIPTION
-This is a web application named dehlani studio in which contains all the work I have done during my third week of learning at [MORINGA School](https://moringaschool.com/). It used css ,jquery ,Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/). the website is about a pizza shop called the sherrifs pizza
+This is a web application named dehlani studio in which contains all the work I have done during my third week of learning at [MORINGA School](https://moringaschool.com/).
+#It used css ,jquery ,Javascript, Bootstrap, and HTML coded from [Visual Studio Code](https://code.visualstudio.com/). the website is about a pizza shop called the sherrifs pizza.
 Here is the [Live Site](https://vincentnjoroge.github.io/pizzawb/)
 
 ## Setup/Installation Requirements
