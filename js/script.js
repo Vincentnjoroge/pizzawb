@@ -1,22 +1,22 @@
 // Business Logic
-  function Pizza () {
+function Pizza () {
   this.toppings = [];
   this.size;
   this.total;
-  }
- Pizza.prototype.cost = function () {
+}
+Pizza.prototype.cost = function () {
   var cost = 0;
   this.toppings.map(function(topping) {
     cost += topping
   });
   var total = cost + this.size;
-  this.total = "Your total is: " + "ksh" + total.toFixed(2);
-  };
+  this.total = "Your total is: " + "" + "ksh"+ total.toFixed(2);
+};
 
 // User Interface Logic
-  (function () {
-   $("#pizzaOrder").submit(function(event) {
-   event.preventDefault();
+$(function() {
+  $("#pizzaOrder").submit(function(event) {
+    event.preventDefault();
     var pizza = new Pizza();
     $("#pizzaForm").fadeIn();
     $("#orderStarter button").hide();
@@ -80,21 +80,5 @@
     });
   });
 });
-
-        
-// Get the video📼
-var video = document.getElementById("myVideo");
-// Get the button
-var btn = document.getElementById("myBtn");
-// Pause and play the video, and change the button text
- function myFunction() {
- if (video.paused) {
- video.play();
-btn.innerHTML = "Pause";
- } else {
- video.pause();
- btn.innerHTML = "Play";
- }
-}
   
   
